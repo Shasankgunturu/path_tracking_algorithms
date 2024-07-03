@@ -1,0 +1,28 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/shasankgunturu/tracking_ws/devel/include/**",
+        "/home/shasankgunturu/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/shasankgunturu/catkin_ws/src/auv_control/include/**",
+        "/home/shasankgunturu/catkin_ws/src/base_control/include/**",
+        "/home/shasankgunturu/catkin_ws/src/base_msgs/include/**",
+        "/home/shasankgunturu/catkin_ws/src/base_vision/include/**",
+        "/home/shasankgunturu/tracking_ws/src/car_demo/include/**",
+        "/home/shasankgunturu/catkin_ws/src/pymavlink_master/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
